@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareCollector.Core", "MiddlewareCollector.Core\MiddlewareCollector.Core.csproj", "{53632AF3-1DE9-4FD1-816E-0C3C8A9D976D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddlewareCollector.Abstract", "MiddlewareCollector.Abstract\MiddlewareCollector.Abstract.csproj", "{5D0A8636-2C85-4F5F-AB1D-4FBB51C94B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53632AF3-1DE9-4FD1-816E-0C3C8A9D976D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53632AF3-1DE9-4FD1-816E-0C3C8A9D976D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53632AF3-1DE9-4FD1-816E-0C3C8A9D976D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53632AF3-1DE9-4FD1-816E-0C3C8A9D976D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0A8636-2C85-4F5F-AB1D-4FBB51C94B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0A8636-2C85-4F5F-AB1D-4FBB51C94B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0A8636-2C85-4F5F-AB1D-4FBB51C94B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0A8636-2C85-4F5F-AB1D-4FBB51C94B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.AssemblyInfoInputs.cache
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.AssemblyInfo.cs
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\bin\Debug\netstandard2.1\MiddlewareCollector.Abstract.deps.json
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\bin\Debug\netstandard2.1\MiddlewareCollector.Abstract.dll
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\bin\Debug\netstandard2.1\MiddlewareCollector.Abstract.pdb
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.dll
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.pdb
+C:\Users\Ershad\RiderProjects\MiddlewareCollector\MiddlewareCollector.Abstract\obj\Debug\netstandard2.1\MiddlewareCollector.Abstract.csproj.AssemblyReference.cache
